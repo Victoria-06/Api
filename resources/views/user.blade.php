@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>User API</title>
+<title>API</title>
 <!-- bootstrap css link -->  
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
 
@@ -14,8 +14,8 @@
            
 body {
     font-family:Georgia, 'Times New Roman', Times, serif;
-    background-color: blue;
-    color:red ;
+    background-color: pink;
+    color:purple ;
     margin: 100px;
     padding: 20px;
 }
